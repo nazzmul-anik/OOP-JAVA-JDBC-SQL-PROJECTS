@@ -6,8 +6,8 @@ Welcome to the Hotel Reservation System, a Java-based application for managing h
 Features 🌟
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-•	Reserve a Room: Easily make new reservations by providing guest details, room numbers, and contact information.
-•	View Reservations: Get an overview of all current reservations, including guest names, room numbers, contact details, and reservation dates.
-•	Edit Reservation Details: Update guest names, room numbers, and contact information for existing reservations.
-•	Delete Reservations: Remove reservations that are no longer needed.
+1. Reserve a Room: Easily make new reservations by providing guest details, room numbers, and contact information.
+2. View Reservations: Get an overview of all current reservations, including guest names, room numbers, contact details, and reservation dates.
+3. Edit Reservation Details: Update guest names, room numbers, and contact information for existing reservations.
+4. Delete Reservations: Remove reservations that are no longer needed.
 
